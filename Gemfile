@@ -1,2 +1,3 @@
 source "https://rubygems.org"
-gemspec
+gem 'spec'
+gem 'github-pages'
