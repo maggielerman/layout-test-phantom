@@ -30,11 +30,3 @@ markdown: kramdown
 
 # Layout settings
 home-link-in-menu: yes
-
-collections:
-  - layouts
-  - posts
-  - includes
-  - sass
-  - assets
-  - images
