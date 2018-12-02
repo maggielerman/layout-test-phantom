@@ -10,4 +10,3 @@ template designed by <a href="http://html5up.net">HTML5 UP</a>.</h1>
 </header>
 <body>
 
-{% include tiles.html %}
