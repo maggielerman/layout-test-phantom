@@ -93,7 +93,7 @@
 				padding: 1em;
 				border-radius: _size(border-radius);
 				border-bottom: 0;
-				color: _palette(fg-accent);
+				color: blue;
 				text-align: center;
 				text-decoration: none;
 				z-index: 3;
@@ -103,7 +103,7 @@
 				}
 
 				&:hover {
-					color: _palette(fg-accent) !important;
+					color: red !important;
 				}
 
 				h2 {
@@ -129,7 +129,7 @@
 
 			&.style1 {
 				> .image:before {
-					background-color: _palette(accent1);
+					background-color: pink;
 				}
 			}
 
