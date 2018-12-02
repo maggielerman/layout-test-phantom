@@ -5,7 +5,7 @@ date:   2016-07-18 12:00:00 -0400
 categories: jekyll update
 ---
 $base-duration: 500ms;
-
+<style>
 // Colors
 $color-1: #c0392b;
 $color-2: #5A7D7C;
@@ -632,6 +632,7 @@ p {
 }
 }
 }
+</style>
 <header>
 	<div class="container">
 		<nav>
