@@ -12,5 +12,4 @@ template designed by <a href="http://html5up.net">HTML5 UP</a>.</h1>
 
     {% include header.html %} {{ content }} {% include footer.html %}
 
-</body>
 {% include tiles.html %}
