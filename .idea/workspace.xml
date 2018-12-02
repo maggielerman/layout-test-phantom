@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02d59a56-15e9-4908-954d-34c67c613407" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/fullscreen_feature.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/fullscreen_feature.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/.sass-cache/1e3b16eb4f5733cd0ddb70037106bd2b22d3f061/fullscreen_feature.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/.sass-cache/1e3b16eb4f5733cd0ddb70037106bd2b22d3f061/fullscreen_feature.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/fullscreen_feature.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/fullscreen_feature.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/fullscreen_feature.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/fullscreen_feature.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/fullscreen_feature.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/fullscreen_feature.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/fullscreen_feature.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,26 +18,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="161">
+              <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/fullscreen_feature.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/css/nav.css">
+        <entry file="file://$PROJECT_DIR$/_includes/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="749">
-              <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -78,11 +66,11 @@
         <option value="$PROJECT_DIR$/assets/js/post.js" />
         <option value="$PROJECT_DIR$/_posts/2016-07-18-welcome-to-jekyll.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_includes/menu.html" />
         <option value="$PROJECT_DIR$/_includes/fullscreen_feature.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/assets/css/fullscreen_feature.scss" />
         <option value="$PROJECT_DIR$/assets/css/nav.css" />
+        <option value="$PROJECT_DIR$/_includes/menu.html" />
       </list>
     </option>
   </component>
@@ -103,6 +91,11 @@
             <path>
               <item name="phantom" type="b2602c69:ProjectViewProjectNode" />
               <item name="phantom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phantom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phantom" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="phantom" type="b2602c69:ProjectViewProjectNode" />
@@ -162,12 +155,12 @@
       <workItem from="1543723142354" duration="326000" />
       <workItem from="1543726181142" duration="3357000" />
       <workItem from="1543776831077" duration="1243000" />
-      <workItem from="1543788327320" duration="1045000" />
+      <workItem from="1543788327320" duration="1202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8728000" />
+    <option name="totallyTimeSpent" value="8885000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,9 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -496,31 +486,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/menu.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/nav.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="246">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="161">
+          <caret line="7" column="56" lean-forward="true" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/fullscreen_feature.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+        <state relative-caret-position="-1490">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/nav.css">
+    <entry file="file://$PROJECT_DIR$/assets/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
